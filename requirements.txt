@@ -1,0 +1,4 @@
+echo "flask
+scapy
+netifaces
+requests" > requirements.txt
